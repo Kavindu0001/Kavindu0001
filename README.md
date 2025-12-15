@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on a ML project about Face Re-Identification
+I'm currently working on a ML project about Face Re-Identification.
 
 
 # 💻 Tech Stack:
